@@ -1,0 +1,48 @@
+
+
+
+// //Record key value creator
+
+// type username = string
+// type password = string | number
+
+// //Record
+// const users: Record<username, password> = {
+//     "user1": "michael",
+//     "user2": "ashan",
+//     "user3": 12345
+// }
+
+// console.log(users["user2"])
+
+// //Pick
+// interface Users {
+//     username: string
+//     password: string | number
+//     passportId: string
+//     bloodtype: string
+//     creditcard: number
+//     onLoggedIn?: (user: string) => boolean
+//     onLoggedout?: (user: string) =>  boolean
+// }
+
+// type lowFunctionalityUser = Pick<Users, "password" | "username"> 
+
+// const ashansLogin: lowFunctionalityUser = {
+//     username: "ashan1234",
+//     password: "password"
+// }
+
+// //Omit 
+
+// //derived type
+// type privateData = Omit<Users, "creditcard">
+
+// const privateUserData: privateData = {
+//         username: "A",
+//         password: "B",
+//         passportId: "C",
+//         bloodtype: "D"
+// }
+
+

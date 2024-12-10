@@ -1,0 +1,6 @@
+{
+    "environment": "development",
+    "privatekey": "privatekey",
+    "dbconnection": "mongodb://localhost:27017/IntergrationTest"
+
+}

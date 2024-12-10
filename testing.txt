@@ -1,0 +1,16 @@
+
+
+
+
+
+
+Unit Testing - Modular Testing. Testing the smallest unit of our application - Testing the logic of the componments that make up our application
+
+-
+
+End-to-End - Full Application testing - Front and Back-End
+1. Main functionailiites of the app e.g Banking App : Bank Transfers, Receiving Money, Sign Up a New User, Set Up Bills
+
+
+Unit Testing > Integration Testing > End-To-End
+Many > Moderate > Fee

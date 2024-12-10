@@ -1,0 +1,8 @@
+
+
+class schemaObj{
+
+    id = {
+        type
+    }
+}
